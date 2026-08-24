@@ -49,17 +49,7 @@ I'm a passionate Computer Engineering student who enjoys learning new technologi
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omrahatal14-sketch&show_icons=true&theme=tokyonight" alt="Om's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omrahatal14-sketch&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## Currently Learning
 
