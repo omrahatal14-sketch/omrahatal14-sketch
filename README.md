@@ -70,8 +70,8 @@ I'm a passionate Computer Engineering student who enjoys learning new technologi
 ---
 
 ## Let's Connect
-
-* LinkedIn: linkedin.com/in/om-rahatal-1a8337337
+[
+* LinkedIn: ](https://www.linkedin.com/in/om-rahatal-1a8337337?utm_source=share_via&utm_content=profile&utm_medium=member_android)linkedin.com/in/om-rahatal-1a8337337
 * Email: omrahatal14@gmail.com
 
 ---
